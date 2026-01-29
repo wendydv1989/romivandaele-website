@@ -1,0 +1,161 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Romi Van Daele",
+    "description": "",
+    "home_page_url": "https://romivandaele.com",
+    "feed_url": "https://romivandaele.com/feed.json",
+    "user_comment": "",
+    "icon": "https://romivandaele.com/media/website/Asset-1romi.svg",
+    "author": {
+        "name": "Lucille"
+    },
+    "items": [
+        {
+            "id": "https://romivandaele.com/works/bow-dress-2025/",
+            "url": "https://romivandaele.com/works/bow-dress-2025/",
+            "title": "Bow Dress (2025)",
+            "summary": "The Bow Dress is a study in refined minimalism, crafted for those&hellip;",
+            "content_html": "<div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/32/gallery/IMG_2642-2.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/32/gallery/IMG_2642-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/32/gallery/IMG_2646-2.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/32/gallery/IMG_2646-2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/32/gallery/IMG_4949.jpeg\" data-size=\"2944x3926\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/32/gallery/IMG_4949-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n</div>\n<div>The Bow Dress is a study in refined minimalism, crafted for those who value form and function in equal measure. Its sleek black silhouette is designed to endure—both in style and wear—offering a versatile piece that transitions effortlessly across occasions. Wide straps provide comfort and support, while the subtle bow detail at the chest, secured with a single button, adds a quiet yet distinctive focal point. The ruched lower half introduces a soft texture, ensuring the design remains dynamic without excess.</div>",
+            "image": "https://romivandaele.com/media/posts/32/IMG_2641.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-26T15:39:46+01:00",
+            "date_modified": "2025-03-26T15:39:46+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/freckle-skirt-2025/",
+            "url": "https://romivandaele.com/works/freckle-skirt-2025/",
+            "title": "Freckle Skirt (2025)",
+            "summary": "A clean silhouette with a refined touch. The Freckle Skirt is designed&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/30/gallery/IMG_2616.jpeg\" data-size=\"2589x3313\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/30/gallery/IMG_2616-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"983\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/30/gallery/IMG_2630.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/30/gallery/IMG_2630-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/30/gallery/IMG_2632.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/30/gallery/IMG_2632-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p>A clean silhouette with a refined touch. The <strong data-start=\"97\" data-end=\"114\">Freckle Skirt</strong> is designed for effortless movement, with golden flecks adding a subtle shimmer. Its minimal design makes it easy to style—dress it up or keep it casual. Functional. Elegant. Made to last.</p>",
+            "image": "https://romivandaele.com/media/posts/30/IMG_2621.png",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-26T15:08:37+01:00",
+            "date_modified": "2025-03-26T15:08:37+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/split-flare-skirt-2025/",
+            "url": "https://romivandaele.com/works/split-flare-skirt-2025/",
+            "title": "Split Flare Skirt (2025)",
+            "summary": "A striking split flare skirt designed for movement, confidence, and versatility. Tailored&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/29/gallery/IMG_2597.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/29/gallery/IMG_2597-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p class=\"\" data-start=\"119\" data-end=\"465\">A striking split flare skirt designed for movement, confidence, and versatility. Tailored with a sleek silhouette that flares beautifully from the knee down, this piece offers an elevated yet effortless look. The subtle front split adds both structure and flow, making it perfect for everyday wear or standout styling.</p>\n<p class=\"\" data-start=\"467\" data-end=\"647\">Pair it with a structured blazer for a refined aesthetic or dress it down with a relaxed knit for a modern twist. Whatever your style, this skirt is designed to make a statement.</p>",
+            "image": "https://romivandaele.com/media/posts/29/IMG_2599.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-26T14:27:23+01:00",
+            "date_modified": "2025-03-26T14:27:29+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/reno-blazer-2025/",
+            "url": "https://romivandaele.com/works/reno-blazer-2025/",
+            "title": "Reno Blazer (2025)",
+            "summary": "Stunning black wool blazer, a one off signature piece. Designed for elegance&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/28/gallery/IMG_5476.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/28/gallery/IMG_5476-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/28/gallery/IMG_5478.jpeg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/28/gallery/IMG_5478-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p data-start=\"103\" data-end=\"360\">Stunning black wool blazer, a one off signature piece. Designed for elegance and versatility, the blazer features intricate gold embroidery in a floral pattern, adding a touch of opulence to its sleek silhouette.</p>\n<p data-start=\"362\" data-end=\"602\">Perfect for formal occasions or statement styling, this piece effortlessly pairs with fitted tops and heels, offering a refined yet bold aesthetic. It's part of our Reno duet, a blazer and a <a href=\"https://romivandaele.com/works/reno-skirt/\">skirt</a>. </p>\n<p data-start=\"362\" data-end=\"602\"> </p>\n<p data-start=\"362\" data-end=\"602\"> </p>",
+            "image": "https://romivandaele.com/media/posts/28/IMG_5476.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-18T15:32:13+01:00",
+            "date_modified": "2025-03-18T15:32:46+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/the-rembrandt-2025/",
+            "url": "https://romivandaele.com/works/the-rembrandt-2025/",
+            "title": "The Rembrandt (2025)",
+            "summary": "The Rembrandt is a versatile statement piece that can be worn as a&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/27/gallery/DSC_8222_websize.jpeg\" data-size=\"1067x1600\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/27/gallery/DSC_8222_websize-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/27/gallery/DSC_8243_websize.jpeg\" data-size=\"1067x1600\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/27/gallery/DSC_8243_websize-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n</div></div>\n<p data-start=\"123\" data-end=\"469\">The Rembrandt is a versatile statement piece that can be worn as a structured top or styled as a \"kraag\" (collar) over other garments. Featuring sculpted pleats and an off-the-shoulder design, it brings a refined yet bold touch to any outfit. An oversized button detail adds a distinctive accent, enhancing its architectural silhouette.</p>\n<p data-start=\"471\" data-end=\"559\">Whether worn alone or layered, this unique piece offers endless styling possibilities.</p>\n<p data-start=\"471\" data-end=\"559\"> </p>\n<div dir=\"auto\">Model: @phaedravergeylen</div>\n<div dir=\"auto\">Make-up: @glow_geel</div>\n<div dir=\"auto\">Fotograaf: @evelynemertens.shoots</div>\n<div dir=\"auto\">Styling: @valeriedestyliste</div>",
+            "image": "https://romivandaele.com/media/posts/27/DSC_8243_websize.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-18T15:29:51+01:00",
+            "date_modified": "2025-03-18T15:29:51+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/reno-skirt/",
+            "url": "https://romivandaele.com/works/reno-skirt/",
+            "title": "Reno Skirt (2025)",
+            "summary": "Elevate your wardrobe with this stunning black skirt, a one off signature&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/26/gallery/DSC_8432-3_websize.jpeg\" data-size=\"1067x1600\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/26/gallery/DSC_8432-3_websize-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n</div></div>\n<p data-start=\"103\" data-end=\"360\">Elevate your wardrobe with this stunning black skirt, a one off signature piece. Designed for elegance and versatility, the skirt features intricate gold embroidery in a floral pattern, adding a touch of opulence to its sleek silhouette.</p>\n<p data-start=\"362\" data-end=\"602\">Perfect for formal occasions or statement styling, this piece effortlessly pairs with fitted tops and heels, offering a refined yet bold aesthetic. </p>\n<p data-start=\"362\" data-end=\"602\">Part of the Reno duet, with <a href=\"https://romivandaele.com/works/reno-blazer-2025/\">blazer</a> and skirt.</p>\n<p data-start=\"362\" data-end=\"602\"> </p>\n<address>Model: @phaedravergeylen<br>Make-up: @glow_geel<br>Fotograaf: @evelynemertens.shoots<br>Styling: @valeriedestyliste</address>",
+            "image": "https://romivandaele.com/media/posts/26/DSC_8432-3_websize.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-18T15:17:34+01:00",
+            "date_modified": "2025-03-18T15:33:16+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/eclipse-2025/",
+            "url": "https://romivandaele.com/works/eclipse-2025/",
+            "title": "Eclipse (2025)",
+            "summary": "This exquisite piece, commissioned by André for his beloved wife, Cindy, is&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/25/gallery/IMG_5333.jpeg\" data-size=\"2986x3377\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/25/gallery/IMG_5333-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"869\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/25/gallery/IMG_5338.jpeg\" data-size=\"2407x3209\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/25/gallery/IMG_5338-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/25/gallery/IMG_5168.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/25/gallery/IMG_5168-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/25/gallery/IMG_5172.JPEG\" data-size=\"1046x3006\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/25/gallery/IMG_5172-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"2207\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/25/gallery/IMG_5169.JPEG\" data-size=\"1436x2188\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/25/gallery/IMG_5169-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1170\"></a></figure>\n</div></div>\n<div class=\"flex-shrink-0 flex flex-col relative items-end\">\n<div>\n<div class=\"pt-0\">\n<div class=\"gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full\">\n<div class=\"relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8\"><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">This exquisite piece, commissioned by André for his beloved wife, Cindy, is a celebration of elegance and artistic innovation. The double-layered dress exudes a sense of mystery and allure with its semi-transparent fabric, creating a mesmerizing moiré effect as the layers interact. The subtle interplay of light and texture lends the garment an almost hypnotic quality, captivating the eye and drawing one into its intricate design.</span></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex-col gap-1 md:gap-3\">\n<div class=\"flex max-w-full flex-col flex-grow\">\n<div class=\"min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"6066b856-9c7f-4657-bbdc-2d7372d06e0a\" data-message-model-slug=\"gpt-4o\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p>The shoulders are adorned with delicate ribbons of fine strings, cascading gracefully to add a soft yet dynamic movement to the overall silhouette. These strings serve as both a functional and aesthetic feature, framing the shoulders and complementing the dress's flowing form. The combination of modern design techniques and timeless sophistication makes this dress not only a striking visual statement but also a deeply personal gift, embodying André's admiration for Cindy.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p> </p>",
+            "image": "https://romivandaele.com/media/posts/25/IMG_5333.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-24T15:30:11+01:00",
+            "date_modified": "2025-03-18T13:10:13+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/drag-skirt-2024/",
+            "url": "https://romivandaele.com/works/drag-skirt-2024/",
+            "title": "Drag Skirt (2024)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/24/gallery/skirt1.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/24/gallery/skirt1-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/24/gallery/skirt2.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/24/gallery/skirt2-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
+            "image": "https://romivandaele.com/media/posts/24/skirt1.JPEG",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-23T11:52:53+01:00",
+            "date_modified": "2024-12-23T12:51:30+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/twisted-dress-2024/",
+            "url": "https://romivandaele.com/works/twisted-dress-2024/",
+            "title": "Twisted Dress (2024)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/23/gallery/twisteddress1.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/23/gallery/twisteddress1-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/23/gallery/twisteddress2.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/23/gallery/twisteddress2-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/23/gallery/twisteddress4.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/23/gallery/twisteddress4-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/23/gallery/twisteddress3.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/23/gallery/twisteddress3-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
+            "image": "https://romivandaele.com/media/posts/23/twisteddress1.JPEG",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-23T11:51:30+01:00",
+            "date_modified": "2024-12-23T12:51:40+01:00"
+        },
+        {
+            "id": "https://romivandaele.com/works/linen-box-top-2024/",
+            "url": "https://romivandaele.com/works/linen-box-top-2024/",
+            "title": "Linen Box Top (2024)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/22/gallery/box-top2.JPEG\" data-size=\"1592x1974\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/22/gallery/box-top2-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"952\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/22/gallery/box-top1.JPEG\" data-size=\"1632x1924\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/22/gallery/box-top1-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"905\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/22/gallery/box-top4.JPEG\" data-size=\"1536x2048\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/22/gallery/box-top4-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://romivandaele.com/media/posts/22/gallery/box-top3.JPEG\" data-size=\"1640x1914\"><img loading=\"lazy\" src=\"https://romivandaele.com/media/posts/22/gallery/box-top3-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"896\"></a></figure>\n</div></div>",
+            "image": "https://romivandaele.com/media/posts/22/linenbox.jpeg",
+            "author": {
+                "name": "Lucille"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-23T11:51:20+01:00",
+            "date_modified": "2024-12-23T13:01:21+01:00"
+        }
+    ]
+}
